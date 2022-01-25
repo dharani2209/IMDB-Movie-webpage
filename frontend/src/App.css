@@ -1,0 +1,28 @@
+.loginpage {
+    background-image: url("https://thumbs.dreamstime.com/b/cinema-hand-drawn-doodle-banner-cartoon-detailed-flyer-movie-identity-objects-symbols-color-vector-design-elements-168794572.jpg");
+    height:100vh;
+    
+  }
+.Registerpage {
+    background-image: url("https://thumbs.dreamstime.com/b/cinema-hand-drawn-doodle-banner-cartoon-detailed-flyer-movie-identity-objects-symbols-color-vector-design-elements-168794572.jpg");
+    height:100vh;
+}
+.totalcontainer {
+    background-color: thistle;
+}
+.tablecontainer {
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.dashboard {
+    background-color: #AFEEEE;
+}
+#btn2 {
+    background-color: purple;
+}
+#btnwish {
+    background-color: plum;
+}
+
